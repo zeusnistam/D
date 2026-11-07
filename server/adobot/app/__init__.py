@@ -1,1 +1,0 @@
-"""AdoBot isolated server application."""
